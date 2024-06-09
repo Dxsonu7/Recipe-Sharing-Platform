@@ -1,5 +1,5 @@
 # Recipe-Sharing-Platform
-A MERN stack plaform which allows users to learn and share about healthy cuisines from different ethnic backgrounds.
+A MERN stack plaform which allows users to learn and share healthy cuisines from diverse ethnic backgrounds.
 
 # Initial Idea
 I am a food lover! I love trying and cooking all kinds of yummy food. On our school breaks, Timber and I, struggled ideas of making our ethnic food accessible to student community on campus. We thought, what if we could build a platform for students to engage, learn, and share their culture, family traditions, and love through the medium of food? :green_salad: :sandwich:
